@@ -1,5 +1,5 @@
 # android-complete-calculator
-📄 A complete working calculator written in Java for Android.
+📄 A complete calculator written in Java for Android.
 
 🛠️ The repository contains:
 
