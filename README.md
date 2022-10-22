@@ -9,7 +9,7 @@
 
 👨🏻‍💻 Main functionalities:
 
-➡ <b>Resolve expressions</b>: also complex expressions (decimal numbers, multiple parenthesis, powers, square roots, sums, subtractions, divisions, multiplications.
+➡ <b>Resolve expressions</b>: also complex expressions (multiple parenthesis, powers, square roots, sums, subtractions, divisions, multiplications).
 <br>
 ➡ <b>Convert into binary</b>: you can convert the real time result into binary (and vice-versa) whenever you want.
 <br>
