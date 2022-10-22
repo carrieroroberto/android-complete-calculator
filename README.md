@@ -3,7 +3,7 @@
 
 🛠️ The repository contains:
 
-➡ <b>Project files</b>: all the files of the Android project (default file system of an application).
+➡ <b>Project files (ZIP archive)</b>: all the files of the Android project (default file system of an application).
 <br>
 ➡ <b>APK file</b>: you can try the application.
 
